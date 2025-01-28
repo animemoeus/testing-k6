@@ -2,6 +2,8 @@
 
 ### Device Specification
 ![image](https://github.com/user-attachments/assets/9200e557-b97f-4b17-a2d5-ef658105ec7f)
+![Uploading image.png…]()
+
 
 ### Go Echo Testing Result
 ![image](https://github.com/user-attachments/assets/a19af6ed-95ff-4fd7-8649-c133d3571acc)
