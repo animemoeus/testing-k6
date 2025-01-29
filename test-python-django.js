@@ -7,7 +7,9 @@ export const options = {
 };
 
 export default function () {
-  const url = "http://localhost:8015";
+  // const url = "http://localhost:8015";
+  // const url = "http://localhost:8015/drf/";
+  const url = "http://localhost:8015/ninja/";
 
   const params = {
     headers: {
